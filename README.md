@@ -18,6 +18,7 @@ A wireless current sensing and monitoring system built on the ESP32 Dev board pl
 The current sensor captures load current data and sends it to the ESP32. The ESP32 processes and transmits the information wirelessly for monitoring and analysis.
 ## Note
 The smartenergymonitorlocal arduino code may or may not work with your home router as it is connected to your home wifi
+The physical build I showed does not have any device connceted but you can connect batteries or multimeters to it
 ## Future Improvements
 - Add cloud integration for long-term data storage.  
 - Implement mobile app/GUI for real-time visualizatio
