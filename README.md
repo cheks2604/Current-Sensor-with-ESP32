@@ -1,7 +1,7 @@
 ## Smart Energy monitor with ESP32
-A simple energy monitor with a current sensor module to connect to any device and read the current and voltage measurements of said device connected.
+
 ## Overview
-A wireless current sensing and monitoring system built on the ESP32 platform. The project measures and logs real-time current data, demonstrating IoT-based data acquisition and embedded monitoring.
+A wireless current sensing and monitoring system built on the ESP32 Dev board platform. The project measures and logs real-time current data, demonstrating IoT-based data acquisition and embedded monitoring.
 
 ## Features
 - Real-time current measurement with ESP32  
